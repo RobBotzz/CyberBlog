@@ -10,4 +10,5 @@ tags:
 
 
 # Docker
-![[Pasted image 20241128231654.png]]
+
+![[Pasted image 20241128232341.png]]
