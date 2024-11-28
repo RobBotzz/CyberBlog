@@ -7,8 +7,7 @@ tags:
  - Linux
  - CI/CD
 ---
-![[Pasted image 20241128230502.png]]
+
 
 # Docker
-
-![[Pasted image 20241128224228.png]]
+![[Pasted image 20241128231654.png]]
