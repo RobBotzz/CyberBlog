@@ -13,10 +13,12 @@
       
       <guid>/posts/warum-ist-regex-so-schwer/</guid>
       <description>&lt;p&gt;Hier ein Bild von einem tollen Tool:
-Und hier ein noch coolerer Absatz&lt;/p&gt;
+Und hier ein neuer Absatz, bleibt das Bild?&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241130165959.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&amp;ndash;RobBotzz&lt;/p&gt;</description>
       <content>&lt;p&gt;Hier ein Bild von einem tollen Tool:
-Und hier ein noch coolerer Absatz&lt;/p&gt;
+Und hier ein neuer Absatz, bleibt das Bild?&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241130165959.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&amp;ndash;RobBotzz&lt;/p&gt;
 </content>
     </item>
