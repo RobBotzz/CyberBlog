@@ -4,7 +4,7 @@
 $sourcePath = "C:\Users\robin\Blog\Obsidian\Blog\posts"
 $destinationPath = "C:\Users\robin\Blog\Hugo\CyberBlog\content\posts"
 
-# Set Github repo 
+# Set Github repo
 $myrepo = "CyberBlog"
 
 # Set error handling

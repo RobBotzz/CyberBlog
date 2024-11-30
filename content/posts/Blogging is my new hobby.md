@@ -13,8 +13,10 @@ I have been curious about writing down my thoughts and learnings for a long time
 
 So from now on I want to publish my ideas, learnings, thoughts, and more!
 
-This is my first test-blog.
+This is my first test-blog. 
 
-![[Pasted image 20241128233344.png]]
+!![Image Description](/images/Pasted%20image%2020241130124029.png)
+![[Pasted image 20241130124920.png]]
+
 
 -- RobBotzz
