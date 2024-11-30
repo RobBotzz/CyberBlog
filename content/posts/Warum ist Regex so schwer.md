@@ -5,6 +5,6 @@ tags:
 ---
 Hier ein Bild von einem tollen Tool:
 
-![[Pasted image 20241130130835.png]]
+!![Image Description](/images/Pasted%20image%2020241130131828.png)
 
 --RobBotzz
